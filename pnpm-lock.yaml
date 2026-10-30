@@ -7,7 +7,7 @@ specifiers:
   serve: ^14.1.1
 
 devDependencies:
-  coffeescript: 2.7.0
+  coffeescript: 2.7.1
   devcert: 1.2.2
   json5: 2.2.1
   serve: 14.1.1
@@ -201,8 +201,8 @@ packages:
       is-wsl: 2.2.0
     dev: true
 
-  /coffeescript/2.7.0:
-    resolution: {integrity: sha512-hzWp6TUE2d/jCcN67LrW1eh5b/rSDKQK6oD6VMLlggYVUUFexgTH9z3dNYihzX4RMhze5FTUsUmOXViJKFQR/A==}
+  /coffeescript/2.7.1:
+    resolution: {integrity: sha512-zDQ0M/Ad05+5eudURWh31RIQc8i1TxIWuUgidoRx7gtrcQnDwSwSckVaJLg3AGKE+z0PuKnIOZ1DZnYvebuvIg==}
     engines: {node: '>=6'}
     hasBin: true
     dev: true
